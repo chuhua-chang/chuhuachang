@@ -1,5 +1,4 @@
-@media screen and (min-width:400px) {
-    body {
+body {
     font-family: sans-serif;
     background-color: #FFFFFF;
     max-width: 70%;
@@ -72,4 +71,4 @@ li {
     margin-bottom: 30px;
     padding: 10px;
 }
-}
+
